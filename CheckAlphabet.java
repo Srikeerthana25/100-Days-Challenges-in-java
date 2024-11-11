@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CheckAlphabet{
+public class Day-1{
  public static void main(String[] args){
 
   Scanner scan = new Scanner(System.in);
